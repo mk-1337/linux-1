@@ -1,0 +1,30 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/xterm.toml"
+]
+
+[font]
+size = 14
+
+[font.bold]
+family = "JetBrains Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrains Mono"
+style = "BoldItalic"
+
+[font.italic]
+family = "JetBrains Mono"
+style = "MediumItalic"
+
+[font.normal]
+family = "JetBrains Mono"
+style = "Medium"
+
+[cursor]
+style = "Beam"
+
+[scrolling]
+history = 1000
+multiplier = 3
